@@ -9,10 +9,10 @@ This is a demo application for how to use a Rest-Api in Unity.
 ---
 
 **Methods**
-- [Get](https://github.com/maydinunlu/Unity-RestApi/edit/main/README.md#method-get)
-- [Post](https://github.com/maydinunlu/Unity-RestApi/edit/main/README.md#method-post)
-- [Put](https://github.com/maydinunlu/Unity-RestApi/edit/main/README.md#method-put)
-- [Delete](https://github.com/maydinunlu/Unity-RestApi/edit/main/README.md#method-delete)
+- [Get](https://github.com/maydinunlu/Unity-RestApi#method-get)
+- [Post](https://github.com/maydinunlu/Unity-RestApi#method-post)
+- [Put](https://github.com/maydinunlu/Unity-RestApi#method-put)
+- [Delete](https://github.com/maydinunlu/Unity-RestApi#method-delete)
 ---
 
 ### METHOD: GET
